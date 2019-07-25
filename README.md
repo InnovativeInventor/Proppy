@@ -1,4 +1,6 @@
 ## Proppy 
+[![Build Status](https://travis-ci.com/InnovativeInventor/Proppy.svg?token=FWCZnQTrUaU6uushKuNx&branch=master)](https://travis-ci.com/InnovativeInventor/Proppy)
+
 Proppy is a propositional logic proving assistant. It can check the validity of statements, form wffs,
 
 Note: I'm trying out README-driven development. This is still a WIP.
